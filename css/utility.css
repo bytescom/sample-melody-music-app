@@ -1,0 +1,48 @@
+.col-white{
+    color: white;
+}
+
+.logo-width{
+    width: 1.5rem;
+}
+
+.ahref{
+    text-decoration: none;
+}
+
+.flex{
+    display: flex;
+    gap: 15px;
+}
+
+.bd{
+    font-weight: 600;
+}
+
+.small-fs{
+    font-size: 0.8rem;
+}
+
+.nor-fs{
+    font-size: 1rem;
+}
+
+.lar-fs{
+    font-size: 1.5rem;
+}
+
+.grey{
+    color: #b3b3b3;
+}
+
+.rt-pd{
+    padding: 25px;
+}
+
+.cr-pt{
+    cursor: pointer;
+}
+
+.cr-no{
+    cursor: none;
+}
